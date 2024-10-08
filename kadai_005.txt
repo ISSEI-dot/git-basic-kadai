@@ -1,0 +1,44 @@
+PS C:\Users\issei murakami> cd "C:\Users\issei murakami\De
+
+
+    ディレクトリ: C:\Users\issei murakami\Desktop\lesson
+d-----        2024/10/08     15:05                git_chal
+
+PS C:\Users\issei murakami\Desktop\lesson\git_challenge> g
+Initialized empty Git repository in C:/Users/issei murakam/git_challenge/.git/
+PS C:\Users\issei murakami\Desktop\lesson\git_challenge> git add "he
+llo_world.txt"
+PS C:\Users\issei murakami\Desktop\lesson\git_challenge> git commit s\issei murakami\Desktop\lesson\git_challenge> gAborting commit due to empty commit message.
+PS C:\Users\issei murakami\Desktop\lesson\git_challenge> gPS C:\Users\issei murakami\Desktop\lesson\git_challenge> git commit txt"
+-m "hello_world.txt"
+[main (root-commit) 4a35236] hello_world.txt
+PS C:\Users\issei murakami\Desktop\lesson\git_challenge> git commit txt"
+-m "hello_world.txt"
+[main (root-commit) 4a35236] hello_world.txt
+PS C:\Users\issei murakami\Desktop\lesson\git_challenge> git commit txt"
+-m "hello_world.txt"
+[main (root-commit) 4a35236] hello_world.txt
+PS C:\Users\issei murakami\Desktop\lesson\git_challenge> git commit txt"
+-m "hello_world.txt"
+[main (root-commit) 4a35236] hello_world.txt
+PS C:\Users\issei murakami\Desktop\lesson\git_challenge> git commit txt"
+-m "hello_world.txt"
+[main (root-commit) 4a35236] hello_world.txt
+PS C:\Users\issei murakami\Desktop\lesson\git_challenge> git commit txt"
+-m "hello_world.txt"
+[main (root-commit) 4a35236] hello_world.txt
+PS C:\Users\issei murakami\Desktop\lesson\git_challenge> git commit txt"
+-m "hello_world.txt"
+[main (root-commit) 4a35236] hello_world.txt
+PS C:\Users\issei murakami\Desktop\lesson\git_challenge> git commit -m "hello_world.txt"
+[main (root-commit) 4a35236] hello_world.txt
+ 1 file changed, 1 insertion(+)
+ create mode 100644 hello_world.txt
+PS C:\Users\issei murakami\Desktop\lesson\git_challenge> git add "hello_world.txt"
+PS C:\Users\issei murakami\Desktop\lesson\git_challenge> git commit -m "日本語訳を追記"
+[main e3bf8c8] 日本語訳を追記
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+PS C:\Users\issei murakami\Desktop\lesson\git_challenge> git log --oneline
+e3bf8c8 (HEAD -> main) 日本語訳を追記
+4a35236 hello_world.txt
+PS C:\Users\issei murakami\Desktop\lesson\git_challenge> 
